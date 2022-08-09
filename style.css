@@ -30,6 +30,7 @@ ul {
     padding-top: 20px;
     padding-bottom: 50px;
     padding-left: 15px;
+    padding-right: 55px;
     margin:0px;
     background-color: #1f2937;
 }
@@ -99,6 +100,10 @@ ul {
 .info   {
     display: flex;
     justify-content: center;
+    font-weight: 900;
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .imagerow {
@@ -126,6 +131,7 @@ ul {
     display: flex;
     padding: 15px;
     justify-content: center;
+    font-weight: 900;
 }
 
 .quotearea {
@@ -148,6 +154,9 @@ ul {
 
 .quoted {
     display:flex;
+    padding-left: 450px;
+    padding-top: 15px;
+    font-size: 18px;
 }
 
 .signup {
@@ -200,7 +209,7 @@ ul {
 
 .actiontext {
     display: flex;
-    padding-left: 290px;
+    padding-left: 255px;
     font-size: 18px;
 }
 
